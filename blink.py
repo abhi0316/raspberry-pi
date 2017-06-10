@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO 
 import time 
 
-GPIO.setmode(GPIO.BOARD) ## Use board pin numbering
+GPIO.setmode(GPIO.BOARD) 
 GPIO.setup(11, GPIO.OUT) ## Setup GPIO Pin 11 to OUT
 
 
