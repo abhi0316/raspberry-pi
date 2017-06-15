@@ -1,5 +1,4 @@
 #!/usr/bin/python2
-
 from Tkinter import *
 import time
 import RPi.GPIO as GPIO
